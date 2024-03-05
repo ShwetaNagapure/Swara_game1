@@ -11,7 +11,7 @@ let SpeechRecognition =
   recording = false;
 
 // Standard text for comparison
-const standardText = " ";
+const standardText = "मुझे सेब पसंद है। ";
 
 function populateLanguages() {
   languages.forEach((lang) => {
